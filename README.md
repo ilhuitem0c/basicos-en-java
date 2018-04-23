@@ -69,3 +69,15 @@ Aquí es dónde se hace uso de la clase graphics de java que nos permite crear f
 9. **EnterosAleatorios.java**
 
 Usamos de la clase Math de Java el método Random para generar un numero aleatorio.
+
+10. **Gradebook.java**
+
+GradeBook y GradeBookTest son parte de un mismo ejemplo para demostrar la declaración de un clase con método e instanciamiento de un objeto de una clase. 
+
+11. **HolaMundo.java**
+
+... sigh ...
+
+12. **Logicos.java**
+
+Demostración de los operadores logicos de java. 
