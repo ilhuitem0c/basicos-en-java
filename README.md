@@ -81,3 +81,23 @@ GradeBook y GradeBookTest son parte de un mismo ejemplo para demostrar la declar
 12. **Logicos.java**
 
 Demostración de los operadores logicos de java. 
+
+13. **MetodoMath.java**
+
+Uso de la función de math POW que devueleve la base elevada al exponente.
+
+14. **Numeros.java**
+
+Simple declaración de variables y numeros. 
+
+15. **PruebaDibujarCaraSonriente.java**
+
+No necesito describir el funcionamiento de este programa...
+
+16. **Suma.java**
+
+Suma simple pero ahora los datos son tomados desde la consola y no declarados desde que se escribe el programa. 
+
+16. **TablaDMult.java**
+
+Uso de for anidados para la creación de una tabla de multiplicar. 
